@@ -1,4 +1,8 @@
-﻿namespace RiftSharp.Routing;
+﻿/// <summary>
+/// Entry point for accessing the Riot Games API.
+/// </summary>
+
+namespace RiftSharp.Routing;
 
 public enum RegionalRoute
 {

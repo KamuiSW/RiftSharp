@@ -1,4 +1,8 @@
-﻿using RiftSharp.Endpoints;
+﻿/// <summary>
+/// Entry point for accessing the Riot Games API.
+/// </summary>
+
+using RiftSharp.Endpoints;
 using RiftSharp.Http;
 
 namespace RiftSharp;

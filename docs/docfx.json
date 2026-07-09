@@ -10,7 +10,7 @@
       ],
       "dest": "api",
       "properties": {
-        "TargetFramework": "net10.0"
+        "TargetFramework": "net8.0"
       }
     }
   ],
@@ -18,12 +18,7 @@
     "content": [
       {
         "files": [
-          "./README.md",
-          "toc.yml",
-          "articles/**/*.md",
-          "articles/**/toc.yml",
-          "api/**/*.yml",
-          "api/index.md"
+          "index.md"
         ]
       }
     ],
